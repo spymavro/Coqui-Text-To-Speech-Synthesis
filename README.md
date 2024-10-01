@@ -1,4 +1,4 @@
-# BreadcrumbsCoqui-Text-To-Speech-Synthesis
+# Coqui-Text-To-Speech-Synthesis
 
 ## Project Overview
 This repository is dedicated to the Text-to-Speech synthesis project using the [coqui-TTS toolkit](https://github.com/coqui-ai/TTS/tree/dev), focusing on synthesizing five different sentences using three distinct TTS models. These models are accessible via the `list_models` command and were chosen to showcase a variety of voice synthesis capabilities. The project demonstrates practical applications and experimentation with modern speech synthesis techniques, using each of the three models to create the same set of sentences, testing different types of expressions such as questions and negations.
