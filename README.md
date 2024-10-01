@@ -57,7 +57,7 @@ Here are some examples of synthesized sentences using different models:
 **Note**: The synthesized speech examples are demonstrated using various sentences and models. The synthesized outputs are saved as `.wav` files, which can be listened to using the IPython display in the notebook.
 
 ## Results
-The results section will detail the evaluation of synthesized speech from three different models based on their intelligibility and naturalness, rated on a scale from 1 to 5. The evaluation process involves [Mean Opinion Scores](https://speech.zone/media/images/Simon_King_Speech_Synthesis_slides_module05_reduced.pdf) from multiple reviewers.
+The results section will detail the evaluation of synthesized speech from three different models based on their intelligibility and naturalness, rated on a scale from 1 to 5. The evaluation process involves Mean Opinion Scores from multiple reviewers. Youn can check the documentation for Mean Opinion Scores at the slides [Speech Synthesis](https://speech.zone/media/images/Simon_King_Speech_Synthesis_slides_module05_reduced.pdf) by Simon King (University of Edinburgh).
 
 ## Contact
 For any inquiries or collaboration requests, please reach out via GitHub or email at spyros.mauromatis@gmail.com.
