@@ -46,7 +46,7 @@ To set up this project for use or development, follow these steps:
   ```bash
   python coqui_TTS.py 
 
-**Note**: Next to `--text` write the text you want to synthesize. Repeat the process for different models and sentences as required.
+**Note**: Next to `--text` write the text you want to synthesize and next to `--speaker_idx` select the speaker you want. Repeat the process for different models and sentences as required.
 
 ## Examples
 Here are some examples of synthesized sentences using different models:
